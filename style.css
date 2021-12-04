@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Estonia', cursive;
+    background: lightskyblue;
+}
+.header_div p
+{
+font-size: 20px;
+font-family: 'Open Sans Condensed', sans-serif;
+letter-spacing: 2px;
+font-weight: bold;
+}
+.header_div
+{
+    background: grey;
+    color: lightgreen;
+}
+.main_div button
+{
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer
+{
+    font-family: 'Comforter', cursive;
+    position: fixed;
+    color: lightcyan;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+background-color: lightseagreen;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 2px rgb(151,149,149);
+
+}
